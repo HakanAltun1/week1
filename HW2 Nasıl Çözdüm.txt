@@ -1,0 +1,25 @@
+
+Oncelikle "class" komutuyla "Fibonacci" Komutunu uyguladim.
+
+Sonrasinda "def" komutuyla fibonacciye gorev atadim fibonacciyi "n" seklinde gosterdim.
+
+Sonraki komutlarla eger yanlis girilen bir sey varsa sona gec 0 "none" komutu getirmesini soyledim (break)
+
+Sonrasinda uygulamanin baslamasi icin "startFibonacci(self):" paremetresi uyguladim
+
+Ekrana yazilacak sayiyi istedim bunun sayi girilmesi icin "int" degiskenini atadim
+
+En sonda sayilarin gozukmesi icin pirint icine fibonacciyi yazdim ve baslattim
+
+---------------------------------------------------------------------------------------------------------------------
+
+  Ve karsimiza boyle bir cikti getiriyor:
+ 
+	Istediginiz Bir Sayiyi Giriniz: 5
+
+	0
+	1
+	1
+	2
+	3
+	None
