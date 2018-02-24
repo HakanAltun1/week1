@@ -1,0 +1,19 @@
+
+En basta iki sorgu atadim, sayi1 ve sayi2 ye "int" olarak atadim ki sayi gonderimlerini kabul etsin.( sayi1 sayi2 ) 
+
+Sonrasinda Islem sorgusu icin bir sorgu atadim ( islem )
+
+Daha sonra ise "if, elif" komnutlari ile islem sorgusunu atadim. (+,-,*,/)
+
+En sonunda gecersiz bir karakter veya sayi girildiginde "else" komutu ile hata mesaji yazdim.
+
+  En sonunda ise Boyle bir Cikti karsimiza cikmis oluyor.
+
+    Mesela 5 ILE 3 U CARPSIN:
+         
+         Ilk Sayiyi Giriniz : 5
+         Ikinci Sayiyi Giriniz : 3
+	 Lutfen Islemi Seciniz : *
+         Sonuc = 15
+    
+                    
